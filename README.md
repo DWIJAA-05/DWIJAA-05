@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Kiran Pawaar
 
 Welcome to my GitHub! I'm a **Senior Software Developer** passionate about building robust APIs, crafting intuitive user interfaces, and exploring innovative technologies.  
 
