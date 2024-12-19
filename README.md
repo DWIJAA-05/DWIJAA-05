@@ -33,7 +33,7 @@ Did you know? I love creating efficient solutions, whether it's in code or a las
 Feel free to reach out for collaboration, discussions on tech, or anything exciting in the world of development!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kiran-pawar-1260)  
-[![GitHub]([https://github.com/your-profile](https://github.com/DWIJAA-05))  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DWIJAA-05))  
 
 ---
 
